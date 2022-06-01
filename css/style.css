@@ -559,7 +559,7 @@ h6 { font-size: 16px; }
 	bottom: 0px;
 	right: 0px;
 	width: 100px;
-	background-color: #f6fbff;
+	background-color: rgb(255, 203, 184);
 }
 
 /*---------------------------------------------------*/
@@ -971,7 +971,7 @@ h6 { font-size: 16px; }
     position: absolute;
     height: 18px;
     width: 18px;
-    background: #f6fbff;
+    background: rgb(255, 203, 184);
     border-radius: 100%;
     border: solid 1px #CCC;
     left: -9px;
@@ -1020,7 +1020,7 @@ h6 { font-size: 16px; }
     float: left;
     clear: both;
     overflow: hidden;
-    border: 2px solid #E5EDF4;
+    border: 2px solid rgb(255, 203, 184);
 	margin-top: 62px;
 }
 .cavani_tm_about .partners .list ul{
