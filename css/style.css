@@ -1214,7 +1214,7 @@ h6 { font-size: 16px; }
 	list-style-type: none;
 }
 .cavani_tm_portfolio .portfolio_filter ul li{
-	margin: 0px 40px 0px 0px;
+	margin: 0px 25px 0px 0px;
 	display: inline-block;
 }
 .cavani_tm_portfolio .portfolio_filter ul li:last-child{
@@ -2089,7 +2089,7 @@ h6 { font-size: 16px; }
 	.progress_inner{margin-bottom: 18px;}
 	.cavani_tm_about .univ ul li .time span{padding: 3px 12px;}
 	.cavani_tm_about .univ ul li .place{padding-left: 0px;}
-	.cavani_tm_portfolio .portfolio_filter ul li{margin-right: 30px;}
+	.cavani_tm_portfolio .portfolio_filter ul li{margin-right: 20px;}
 	.cavani_tm_about .testimonials .list ul li .text{padding: 30px;}
 	.cavani_tm_news .news_list ul li .details{padding: 15px 15px 0px 15px;}
 	.cavani_tm_news .news_list ul li .metabox .info span{font-size: 13px;padding-left: 20px;}
